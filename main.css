@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(236, 232, 232);
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(141, 166, 189);
+  text-align: center;
+  justify-content: center;
+}
